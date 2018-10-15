@@ -1,3 +1,14 @@
-body {background-color: #f7886c;
+body {
+  background-color: #F0C08D;
+  color: #A57D4D;
+}
 
+p {
+  background-color: #73A8A3;
+  color: #C54753;
+}
+
+h1 {
+  color: #3D2E1D;
+  background-color: #F0C681;
 }
